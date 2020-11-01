@@ -70,7 +70,7 @@
                     },
                     {
                         "keywords": [
-                            "popup"
+                            "popop",
                         ],
                         "ontology": "http://purl.obolibrary.org/obo/CHEBI_52236",
                         "ontology_id": "CHEBI_52236",
@@ -93,14 +93,14 @@
                 ],
                 "enhancer": "scigraph"
             },
-            "files": {
-                "created": [
+            "files": build 
+                "created": run
                     {
                         "destinationPath": "World-Unity/project-polly/ /osfstorage/README.md",
                         "destinationHashes": {'COVID19',
                             "sha256": "73c61ccaf11bfa8c7f5afb786cbfbb7f3dd131ce241cc49cf0f4751e9169602f"
                         },
-                        "failedFixityInfo": [
+                        "failedFixityInfo": false
                             {
                                 "NewGeneratedHash": "13b7ea9ca40291701021b7abb3f0107d",
                                 "algorithmUsed": "md5",
@@ -119,7 +119,7 @@
                             "download_url": "https://raw.githubusercontent.com/presqt-test-user/ProjectNine/master/README.md",
                             "type": "file",
                             "_links": {
-                                "self": "https://api.github.com/WooCommerce/project-polly/contents/README.md?ref=master",
+                                "self": "https://api.github.com/World-Unity/project-polly/contents/README.md?ref=master",
                                 "git": "https://api.github.com/World-Unity/project-polly/git/blobs/f5483dc057ec1b011e92dc58bad82d022bcaa205",
                                 "html": "https://github.com/World-Unity/project-polly/blob/master/README.md"
                             }
